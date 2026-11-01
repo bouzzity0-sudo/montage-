@@ -1,4 +1,4 @@
-# video-studio
+# montage-studio
 
 Plugin pour travailler la vidéo de l'idée à la livraison, en français.
 
