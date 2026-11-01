@@ -2,5 +2,15 @@
   "name": "montage-studio",
   "version": "0.1.0",
   "description": "Écriture de scénarios et de storyboards, montage avec ffmpeg, sous-titres et prompts de génération d'images ou de vidéos.",
-  "keywords": ["vidéo", "storyboard", "ffmpeg", "sous-titres", "prompts"]
+  "author": {
+    "name": "bouzzity0-sudo"
+  },
+  "license": "Apache-2.0",
+  "keywords": [
+    "vidéo",
+    "storyboard",
+    "ffmpeg",
+    "sous-titres",
+    "prompts"
+  ]
 }
